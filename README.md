@@ -15,14 +15,11 @@ $ npm install cloudbus
 
 $ npm install
 $ sudo node index.js
-
 ```
 
 ### License (MIT)
 
 Copyright (c) 2012, Leandro Boffi.
-
-**
 
 ### Author: [Leandro Boffi][0]
 
