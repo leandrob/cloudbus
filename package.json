@@ -1,0 +1,14 @@
+{
+  "author": "Leandro Boffi (lboffi@gmail.com)",
+  "name": "cloudbus",
+  "description": "Simple cloud service bus based on Node.js",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/leandrob/cloudbus.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "express":"*"
+  }
+}
